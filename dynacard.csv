@@ -1,0 +1,101 @@
+Tubing head temperature,Flow_rate,Bottom_hole_flowing_pressure,Pump_fillage,Dynacard_states
+190,1608.002,2921.704,100,Healthy Pump
+190,1618.998,2921.331,100,Healthy Pump
+190,1617,2925.614,77,Fluid Pounding
+202,1612.001,2928.595,65,Gas Interference
+190,1615,2930.271,100,Healthy Pump
+190,1591.003,2930.83,77,Fluid Pounding
+190,1600.999,2933.065,65,Gas Interference
+190,1599,2932.879,100,Healthy Pump
+190,1610.998,2930.085,100,Healthy Pump
+198,1597.002,2930.271,65,Gas Interference
+190,1600,2931.575,88,Well_borne_friction
+190,1618.997,2924.685,45,Hole_barrel
+204,1620,2924.125,65,Gas Interference
+190,1609.002,2925.429,100,Healthy Pump
+190,1615.999,2927.663,100,Healthy Pump
+190,1619,2927.664,65,Gas Interference
+190,1615.001,2926.174,88,Well_borne_friction
+190,1612,2926.732,45,Hole_barrel
+190,1603.001,2924.125,45,Hole_barrel
+190,1624.999,2926.546,65,Gas Interference
+194,1613.002,2925.243,88,Well_borne_friction
+190,1614,2925.429,45,Hole_barrel
+190,1438.024,2904.199,100,Healthy Pump
+190,1457.997,2911.087,100,Healthy Pump
+190,1495.995,2943.863,77,Fluid Pounding
+197,1481.002,2936.232,65,Gas Interference
+190,1459.003,2933.624,100,Healthy Pump
+190,1211.034,2822.075,77,Fluid Pounding
+195,1213,2811.259,100,Healthy Pump
+190,1211,2811.444,100,Healthy Pump
+190,1200.002,2812.002,77,Fluid Pounding
+190,1187.002,2808.65,65,Gas Interference
+190,1564.948,2944.407,100,Healthy Pump
+190,1605.994,2932.88,77,Fluid Pounding
+190,1610.999,2930.644,65,Gas Interference
+193,1614,2929.899,100,Healthy Pump
+190,1618.999,2921.705,100,Healthy Pump
+190,1619,2924.87,65,Gas Interference
+190,1554.009,2946.1,88,Well_borne_friction
+190,1553,2946.103,45,Hole_barrel
+190,1530.003,2946.103,65,Gas Interference
+190,1379.031,1039.131,100,Healthy Pump
+200,1428.993,2025.332,100,Healthy Pump
+190,1410.003,2186.366,65,Gas Interference
+190,1424.998,2603.903,88,Well_borne_friction
+190,1108.03,2831.527,45,Hole_barrel
+190,1442.953,2942.921,45,Hole_barrel
+195,1442,2942.75,65,Gas Interference
+190,1423.003,2917.237,88,Well_borne_friction
+190,1431.999,2882.41,45,Hole_barrel
+190,1435.999,2903.262,100,Healthy Pump
+197,1421.002,2770.301,100,Healthy Pump
+190,1433.998,2769.724,77,Fluid Pounding
+199,1446.998,2773.262,65,Gas Interference
+190,1443.001,2779.035,100,Healthy Pump
+190,1351.013,2781.643,77,Fluid Pounding
+190,1421.99,2787.789,65,Gas Interference
+190,1455.995,2836.208,100,Healthy Pump
+204,1454,2836.774,100,Healthy Pump
+190,1455,2770.664,65,Gas Interference
+190,1459.999,2743.466,88,Well_borne_friction
+207,1463,2776.797,45,Hole_barrel
+190,1459.001,2739.929,65,Gas Interference
+190,1486.996,2943.839,100,Healthy Pump
+190,1490.999,2943.495,100,Healthy Pump
+205,1451.006,2943.309,65,Gas Interference
+190,1467.29,2944.426,88,Well_borne_friction
+190,1482.961,2871.985,45,Hole_barrel
+209,1473.001,2675.881,45,Hole_barrel
+190,1473,2877.734,65,Gas Interference
+190,1472,2891.343,88,Well_borne_friction
+210,1470,2886.503,45,Hole_barrel
+190,1486.998,2849.444,65,Gas Interference
+190,1485,2842.548,88,Well_borne_friction
+190,1487,2820.759,45,Hole_barrel
+190,1476.002,2889.845,65,Gas Interference
+190,1477,2911.643,100,Healthy Pump
+190,1460.002,2912.205,100,Healthy Pump
+198,1466.999,2917.978,65,Gas Interference
+190,1528.991,1039.131,88,Well_borne_friction
+191,1538.999,2025.332,45,Hole_barrel
+190,1515.003,2186.366,45,Hole_barrel
+190,1511.001,2603.903,65,Gas Interference
+200,1511,2831.527,88,Well_borne_friction
+190,1508,2942.921,45,Hole_barrel
+190,1674.977,2942.75,65,Gas Interference
+194,1621.008,2917.237,88,Well_borne_friction
+190,1633.998,2882.41,45,Hole_barrel
+190,1633,2903.262,65,Gas Interference
+190,1622.002,2770.301,100,Healthy Pump
+207,1488.019,2769.724,100,Healthy Pump
+190,1486,2773.262,77,Fluid Pounding
+198,1496.998,2779.035,77,Fluid Pounding
+190,1498,2781.643,45,Hole_barrel
+198,1493.001,2787.789,77,Fluid Pounding
+190,1486.001,2836.208,45,Hole_barrel
+194,1494.999,2836.774,65,Gas Interference
+190,1491.001,2770.664,88,Well_borne_friction
+190,1489,2743.466,45,Hole_barrel
+210,1486,2776.797,77,Fluid Pounding
